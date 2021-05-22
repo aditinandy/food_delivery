@@ -1,4 +1,4 @@
-user/seller login authontication, day/light effect, without login/signup user/seller can't access the website properly. Auto logout from any device in minmun time slot and logout 
+user/seller login authentication, day/light effect, without login/signup user/seller can't access the website properly. Auto logout from any device in minmun time slot and logout 
 proper device with all devices logout functionality.
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/70258688/119215304-83b93a00-baea-11eb-8cae-eeac714c1d78.png)
